@@ -9,7 +9,7 @@ public class MoveCurtain : MonoBehaviour {
 	private float startTime;
 	private float distance;
 
-	private bool isUp = false;
+	private bool isUp = true;
 
 	// Use this for initialization
 	void Start () {
