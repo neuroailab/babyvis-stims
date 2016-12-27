@@ -1,4 +1,16 @@
 sceneSetups:
 - path: Assets/Scenes/KS1983-E1.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/KS1983-E1.2.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/KS1983-E1.3.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/WS1992-E1.unity
+  isLoaded: 0
+  isActive: 0
+- path: Assets/Scenes/SMBJ1992-E1.unity
   isLoaded: 1
   isActive: 1
